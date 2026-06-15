@@ -1,3 +1,10 @@
+[이클래스 바로가기](https://eclass.dongguk.ac.kr/bbs/bbsLect/Form/viewAtclForm)
+
+<https://eclass.dongguk.ac.kr/bbs/bbsLect/Form/viewAtclForm>
+
+[이클래스](https://eclass.dongguk.ac.kr/bbs/bbsLect/Form/viewAtclForm, "바로가기 링크")
+
+
 - 제목
 - 제목
 * 제목
